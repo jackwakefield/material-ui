@@ -7,6 +7,7 @@ class Components extends React.Component {
     var menuItems = [
       { route: 'appbar', text: 'AppBar'},
       { route: 'buttons', text: 'Buttons'},
+      { route: 'cards', text: 'Cards'},
       { route: 'date-picker', text: 'Date Picker'},
       { route: 'dialog', text: 'Dialog'},
       { route: 'dropdown-menu', text: 'Dropdown Menu'},
